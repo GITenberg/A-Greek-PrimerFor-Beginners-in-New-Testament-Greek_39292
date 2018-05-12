@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39944'
     url: http://www.gutenberg.org/2009/agents/39944
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39292#A-Greek-PrimerFor-Beginners-in-New-Testament-Greek
 gutenberg_issued: '2012-03-28'
 gutenberg_type: Text
 identifiers:
