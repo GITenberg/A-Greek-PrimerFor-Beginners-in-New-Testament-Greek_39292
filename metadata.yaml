@@ -1,0 +1,28 @@
+_repo: A-Greek-PrimerFor-Beginners-in-New-Testament-Greek_39292
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stearns, Wallace N. (Wallace Nelson)
+    alias: Stearns, Wallace Nelson
+    birthdate: 1866
+    gutenberg_agent_id: '39944'
+    url: http://www.gutenberg.org/2009/agents/39944
+description: ''
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39292'
+  lccn: '14017123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. New Testament. Greek'
+- !lcc 'PA'
+- !lcsh 'Greek language, Biblical -- Readers'
+title: 'A Greek Primer: For Beginners in New Testament Greek'
+url: http://www.gutenberg.org/ebooks/39292
